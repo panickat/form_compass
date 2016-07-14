@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el",
+				"else"
+			],
+			[
+				"pa",
+				"password_confirmation"
+			],
+			[
+				"p",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"user_schema"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"varia",
+				"variables"
+			],
+			[
+				"param",
+				"param_data"
+			],
+			[
+				"url",
+				"url_data"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"html",
+				"html_string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/node.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/mccann/examen/test/stylesheets/screen.css",
+		"/C/wamp/www/mccann/examen/test/sass/screen.scss",
+		"/C/wamp/www/mccann/examen/test/index.html",
+		"/C/cygwin64/home/kat/.bashrc",
+		"/C/wamp/www/mccann/examen/stylesheets/screen.css",
+		"/C/wamp/www/mccann/examen/index.html",
+		"/C/wamp/www/mccann/examen/sass/screen.scss",
+		"/C/wamp/www/mccann/examen/stylesheets/css/screen.css",
+		"/C/wamp/www/mccann/.gitignore",
+		"/C/wamp/www/mccann/index.html",
+		"/C/cygwin64/home/kat/.minttyrc",
+		"/C/examen/mongo/app.js",
+		"/C/examen/mongo/views/registro.jade",
+		"/C/examen/mongo/models/user.js",
+		"/C/examen/mongo/views/index.jade",
+		"/C/examen/mongo/views/login.jade",
+		"/C/examen/rest/app.js",
+		"/C/examen/servir_archivos_estaticos/app.js",
+		"/C/examen/servir_archivos_estaticos/public/app.css",
+		"/C/examen/layouts_jade/app.js",
+		"/C/examen/layouts_jade/views/layout.jade",
+		"/C/examen/layouts_jade/views/index.jade",
+		"/C/examen/layouts_jade/views/login.jade",
+		"/C/examen/layouts_jade/.gitignore",
+		"/C/examen/rutas/views/index.jade",
+		"/C/examen/rutas/app.js",
+		"/C/examen/rutas/views/form.jade",
+		"/C/examen/routing/views/form.jade",
+		"/C/examen/routing/views/index.jade",
+		"/C/examen/routing/app.js",
+		"/C/examen/hola_express/views/index.jade",
+		"/C/examen/hola_express/.gitignore",
+		"/C/examen/hola_express/app.js",
+		"/C/examen/hola_express/index.jade",
+		"/C/examen/hola_express/package.json",
+		"/C/examen/params_parser.js",
+		"/C/examen/form_params.js",
+		"/C/examen/index.html",
+		"/C/examen/render_vars.js",
+		"/C/Users/kat/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/examen/encabesados.js",
+		"/C/examen/hola_html.js",
+		"/C/examen/app.js",
+		"/C/examen/hola.js",
+		"/C/Users/kat/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\examen\\mongo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BoldAsFont",
+			"origin/master",
+			"url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mccann.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
