@@ -68,3 +68,23 @@ label input:valid + .label-text {
   -webkit-transform: translateY(-74px);
   transform: translateY(-74px);
 }
+
+/* line 69, ../sass/screen.scss */
+button {
+  background-color: #333333;
+  border: 2px solid white;
+  border-radius: 27px;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 15px 30px;
+  text-transform: uppercase;
+  transition: all 200ms;
+}
+/* line 81, ../sass/screen.scss */
+button:hover, button:focus {
+  background-color: white;
+  color: #333333;
+  outline: 0;
+}
